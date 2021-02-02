@@ -6,7 +6,7 @@
 
 ---
 ## Recursos de ayuda
-- [Creating Visual Effects in JavaFX](https://www.markdownguide.org/cheat-sheet/)
+- [Creating Visual Effects in JavaFX](https://docs.oracle.com/javafx/2/visual_effects/jfxpub-visual_effects.htm)
 - [JavaFX: Transformations, Animations, and Visual Effects](https://docs.oracle.com/javase/8/javafx/visual-effects-tutorial/effect-types.htm)
 - [TimboKZ/ActiveVisualiser](https://github.com/TimboKZ/ActiveVisualiser)
 - [Build an Audio Waveform Display](https://web.archive.org/web/20090221151851/http://codeidol.com/java/swing/Audio/Build-an-Audio-Waveform-Display/)
