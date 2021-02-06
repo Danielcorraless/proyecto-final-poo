@@ -1,5 +1,13 @@
-public class proyecto{
-    public static void main(String[] args) {
+package com.proyecto;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
         System.out.println("Hola topacio");
         //Comentario de prueba
         //Cada cosa que se agregue al codigo intenten comentarla, poner no se su firma pa saber quien se la rifo y quien rompio el codigo

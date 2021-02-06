@@ -16,7 +16,7 @@
 ---
 ## Task List
 ### Primera etapa 6-7
-- [ ] Organizar el proyecto
+- [x] Organizar el proyecto
 - [ ] Leer la documentacion de vlcj y definir si podemos agregar efectos visuales, si no hacer solo un media player
 - [ ] Hacer la siguiente etapa del proyecto
 ### Segunda etapa 8-10
